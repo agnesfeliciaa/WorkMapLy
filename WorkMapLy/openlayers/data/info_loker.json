@@ -1,0 +1,761 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 0,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42644743068701,
+          0.57016518347149903
+        ]
+      },
+      "properties" : {
+        "FID" : 0,
+        "no" : 1,
+        "nama" : "Toko Plastik Bahan Plastik dan Bahan Kue (Grosir dan Eceran)",
+        "x" : 0.57016500000000003,
+        "y" : 101.426447,
+        "alamat" : "Jl. Umban Sari No.29, Umban Sari, Kec. Rumbai, Kota Pekanbaru, Riau 28266",
+        "foto" : "images/toko1.png",
+        "keterangan" : "Toko"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.424672344741,
+          0.54357500157591898
+        ]
+      },
+      "properties" : {
+        "FID" : 1,
+        "no" : 2,
+        "nama" : "Sekolah Bina Mitra Wahana",
+        "x" : 0.54357500000000003,
+        "y" : 101.424672,
+        "alamat" : "Jl. Kulim No.88, Tampan, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
+        "foto" : "images/toko2.png",
+        "keterangan" : "Lembaga pendidikan"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42274837984201,
+          0.54579274477263395
+        ]
+      },
+      "properties" : {
+        "FID" : 2,
+        "no" : 3,
+        "nama" : "Dimas Jaya",
+        "x" : 0.54579299999999997,
+        "y" : 101.422748,
+        "alamat" : "Jl. Kayu Manis No.39, Tampan, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
+        "foto" : "images/toko3.png",
+        "keterangan" : "Toko"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.431455623576,
+          0.53781020854331796
+        ]
+      },
+      "properties" : {
+        "FID" : 3,
+        "no" : 4,
+        "nama" : "Tho Ling",
+        "x" : 0.53781000000000001,
+        "y" : 101.431456,
+        "alamat" : "Jl. Kulim No.49c, Kp. Baru, Kec. Senapelan, Kota Pekanbaru, Riau 28291",
+        "foto" : "images/Tho Ling.png",
+        "keterangan" : "UMKM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.431604961358,
+          0.53851323919943095
+        ]
+      },
+      "properties" : {
+        "FID" : 4,
+        "no" : 5,
+        "nama" : "Juno Hair",
+        "x" : 0.53851300000000002,
+        "y" : 101.431605,
+        "alamat" : "Jl. Kulim No.35 G, Kp. Baru, Kec. Senapelan, Kota Pekanbaru, Riau 28155",
+        "foto" : "images/Juno Hair.png",
+        "keterangan" : "Layanan atau Jasa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.432323879397,
+          0.53683512204887096
+        ]
+      },
+      "properties" : {
+        "FID" : 5,
+        "no" : 6,
+        "nama" : "Soesan Vegetarian",
+        "x" : 0.53683499999999995,
+        "y" : 101.43232399999999,
+        "alamat" : "Jl. Kulim No..17, Kp. Baru, Kec. Senapelan, Kota Pekanbaru, Riau 28291",
+        "foto" : "images/Soesan Vegetarian.png",
+        "keterangan" : "UMKM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.423171708233,
+          0.53556675190872705
+        ]
+      },
+      "properties" : {
+        "FID" : 6,
+        "no" : 7,
+        "nama" : "Time (Alat Tulis)",
+        "x" : 0.53556700000000002,
+        "y" : 101.42317199999999,
+        "alamat" : "Jl. Riau No.30 A, Air Hitam, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
+        "foto" : "images/Time (Alat Tulis).png",
+        "keterangan" : "Toko"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.421068350561,
+          0.53522156681849498
+        ]
+      },
+      "properties" : {
+        "FID" : 7,
+        "no" : 8,
+        "nama" : "Yanmar",
+        "x" : 0.53522199999999998,
+        "y" : 101.42106800000001,
+        "alamat" : "Jl. Riau No.53 A - E, Air Hitam, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28292",
+        "foto" : "images/Yanmar.png",
+        "keterangan" : "Toko"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.419829949072,
+          0.53208307767968899
+        ]
+      },
+      "properties" : {
+        "FID" : 8,
+        "no" : 9,
+        "nama" : "Kilat Auto Design",
+        "x" : 0.53208299999999997,
+        "y" : 101.41983,
+        "alamat" : "JL Soekarno Hatta No.99 ABC, Air Hitam, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28292",
+        "foto" : "images/Kilat Auto Design.png",
+        "keterangan" : "Layanan atau Jasa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.414524413492,
+          0.53501184326381801
+        ]
+      },
+      "properties" : {
+        "FID" : 9,
+        "no" : 10,
+        "nama" : "Lialova Boutique",
+        "x" : 0.53501200000000004,
+        "y" : 101.414524,
+        "alamat" : "GCM7+VRW, Jl. Riau Ujung, Air Hitam, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
+        "foto" : "images/Lialova Boutique.png",
+        "keterangan" : "Toko"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.41504010585101,
+          0.53594827366534403
+        ]
+      },
+      "properties" : {
+        "FID" : 10,
+        "no" : 11,
+        "nama" : "Dapur Mama",
+        "x" : 0.53594799999999998,
+        "y" : 101.41504,
+        "alamat" : "Jl. Riau Ujung No.87D, Air Hitam, Kec. Payung Sekaki, Kota Pekanbaru, Riau",
+        "foto" : "images/Dapur Mama.png",
+        "keterangan" : "UMKM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.418705869066,
+          0.53687053861817702
+        ]
+      },
+      "properties" : {
+        "FID" : 11,
+        "no" : 12,
+        "nama" : "Pusat Timbangan Pekanbaru",
+        "x" : 0.53687099999999999,
+        "y" : 101.418706,
+        "alamat" : "seberang univ. Abdurrab, Jl. Riau Ujung Blk. C No.136, Tampan, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28292",
+        "foto" : "images/Pusat Timbangan Pekanbaru.png",
+        "keterangan" : "UMKM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.419762421725,
+          0.53343749525383299
+        ]
+      },
+      "properties" : {
+        "FID" : 12,
+        "no" : 13,
+        "nama" : "Miso Arengka Sudirman",
+        "x" : 0.53343700000000005,
+        "y" : 101.41976200000001,
+        "alamat" : "Jl. Soekarno - Hatta No.8a, Air Hitam, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
+        "foto" : "images/Miso Arengka Sudirman.png",
+        "keterangan" : "Toko"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.429020618485,
+          0.54545750586325703
+        ]
+      },
+      "properties" : {
+        "FID" : 13,
+        "no" : 14,
+        "nama" : "Evolution",
+        "x" : 0.545458,
+        "y" : 101.42902100000001,
+        "alamat" : "Jl. Kulim No.56, Tampan, Kec. Senapelan, Kota Pekanbaru, Riau 28291",
+        "foto" : "images/Evolution.png",
+        "keterangan" : "Toko"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42887237939701,
+          0.53761906673202298
+        ]
+      },
+      "properties" : {
+        "FID" : 14,
+        "no" : 15,
+        "nama" : "New Day Bakery",
+        "x" : 0.53761899999999996,
+        "y" : 101.428872,
+        "alamat" : "Jl. Kuras No.19, Kp. Baru, Kec. Senapelan, Kota Pekanbaru, Riau 28155",
+        "foto" : "images/NewDayBakery.png",
+        "keterangan" : "Toko"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43068535056101,
+          0.53847620997619605
+        ]
+      },
+      "properties" : {
+        "FID" : 15,
+        "no" : 16,
+        "nama" : "Willy Jaya 99 Plastic House Wares",
+        "x" : 0.53847599999999995,
+        "y" : 101.430685,
+        "alamat" : "Jl. Kulim No.45 - 47, Kp. Baru, Kec. Senapelan, Kota Pekanbaru, Riau 28154",
+        "foto" : "images/WillyJaya99PlasticHouseWares.png",
+        "keterangan" : "Toko"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.413315910736,
+          0.53569265365074703
+        ]
+      },
+      "properties" : {
+        "FID" : 16,
+        "no" : 17,
+        "nama" : "UD. Jaya Bersama",
+        "x" : 0.53569299999999997,
+        "y" : 101.41331599999999,
+        "alamat" : "Jl. Riau Ujung No.244, Tampan, Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
+        "foto" : "images/UD.JayaBersama.png",
+        "keterangan" : "Toko"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.405227541927,
+          0.46132234710909198
+        ]
+      },
+      "properties" : {
+        "FID" : 17,
+        "no" : 18,
+        "nama" : "Foto Copy Zahafa",
+        "x" : 0.46132200000000001,
+        "y" : 101.40522799999999,
+        "alamat" : "Jl. Putri Tujuh, RT.01/RW.03, Sidomulyo Bar., Kec. Tampan, Kota Pekanbaru, Riau 28289",
+        "foto" : "images/FotoCopyZahafa.png",
+        "keterangan" : "Toko"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.37695847829799,
+          0.46047204722330398
+        ]
+      },
+      "properties" : {
+        "FID" : 18,
+        "no" : 19,
+        "nama" : "Pondok Ayam Penyet & Ikan Asin Shakila",
+        "x" : 0.46047199999999999,
+        "y" : 101.376958,
+        "alamat" : "Jl. Taman Karya, Tuah Karya, Kec. Tampan, Kota Pekanbaru, Riau 28293",
+        "foto" : "images/PondokAyamPenyetDanIkanAsin.png",
+        "keterangan" : "UMKM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.433584568531,
+          0.51264278863135204
+        ]
+      },
+      "properties" : {
+        "FID" : 19,
+        "no" : 20,
+        "nama" : "Kedai Kopi Klasik",
+        "x" : 0.51264299999999996,
+        "y" : 101.43358499999999,
+        "alamat" : "Jl. Rajawali No.67 C, Kp. Melayu, Kec. Sukajadi, Kota Pekanbaru, Riau 28156",
+        "foto" : "images/KedaiKopiKlasik.png",
+        "keterangan" : "UMKM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.449441437846,
+          0.51493868854230596
+        ]
+      },
+      "properties" : {
+        "FID" : 20,
+        "no" : 21,
+        "nama" : "Dough Bun&Biscuits",
+        "x" : 0.51493900000000004,
+        "y" : 101.44944099999999,
+        "alamat" : "GC7X+VQG, Jl. Seberut, Simpang Empat, Kec. Pekanbaru Kota, Kota Pekanbaru, Riau",
+        "foto" : "images/DoughBunDanBiscuits.png",
+        "keterangan" : "Toko"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.428522884657,
+          0.43481323449568998
+        ]
+      },
+      "properties" : {
+        "FID" : 21,
+        "no" : 22,
+        "nama" : "Bima laundry",
+        "x" : 0.43481300000000001,
+        "y" : 101.428523,
+        "alamat" : "Jl. Garuda Raya No.53, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28282",
+        "foto" : "images/BimaLaundry.png",
+        "keterangan" : "UMKM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.501916719961,
+          0.49994951579608299
+        ]
+      },
+      "properties" : {
+        "FID" : 22,
+        "no" : 23,
+        "nama" : "ALHAWA JUICE CAPPUCINO CINCAU",
+        "x" : 0.49995000000000001,
+        "y" : 101.50191700000001,
+        "alamat" : "Jalan Imam munandar No 3 depan Alam Mayang, Sialang sakti, Kec. Tenayan Raya, Kota Pekanbaru, Riau 28131",
+        "foto" : "images/alhawa.png",
+        "keterangan" : "UMKM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.458552170049,
+          0.51675027370454596
+        ]
+      },
+      "properties" : {
+        "FID" : 23,
+        "no" : 24,
+        "nama" : "DKriuk Fried Chicken GOBAH",
+        "x" : 0.51675000000000004,
+        "y" : 101.458552,
+        "alamat" : "Suka Maju, Sail, Pekanbaru City, Riau",
+        "foto" : "images/DKriukFriedChickenGobah.png",
+        "keterangan" : "UMKM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.461793746027,
+          0.46096339196315
+        ]
+      },
+      "properties" : {
+        "FID" : 24,
+        "no" : 25,
+        "nama" : "Utama Fried Chicken",
+        "x" : 0.46096300000000001,
+        "y" : 101.461794,
+        "alamat" : "Jl. Tengku Bey No.3, Simpang Tiga, Kec. Bukit Raya, Kota Pekanbaru, Riau 28284",
+        "foto" : "images/UtamaFriedChicken.png",
+        "keterangan" : "UMKM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.405157876712,
+          0.47004330985891202
+        ]
+      },
+      "properties" : {
+        "FID" : 25,
+        "no" : 26,
+        "nama" : "Miracle Coating",
+        "x" : 0.47004299999999999,
+        "y" : 101.405158,
+        "alamat" : "Jl. Delima No.24E, Delima, Kec. Tampan, Kota Pekanbaru, Riau 28292",
+        "foto" : "images/MiracleCoating.png",
+        "keterangan" : "Layanan atau Jasa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.42564561534201,
+          0.52747968672873702
+        ]
+      },
+      "properties" : {
+        "FID" : 26,
+        "no" : 27,
+        "nama" : "N' Wash Laundry",
+        "x" : 0.52747999999999995,
+        "y" : 101.425646,
+        "alamat" : "Jl. Bintara No.31, Labuh Baru Tim., Kec. Payung Sekaki, Kota Pekanbaru, Riau 28291",
+        "foto" : "images/N_Wash Laundry.png",
+        "keterangan" : "UMKM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.41946618546901,
+          0.48785315067309498
+        ]
+      },
+      "properties" : {
+        "FID" : 27,
+        "no" : 28,
+        "nama" : "PT Asuransi Central Asia (ACA)",
+        "x" : 0.48785299999999998,
+        "y" : 101.419466,
+        "alamat" : "Jl. Soekarno - Hatta No.49, Delima, Kec. Tampan, Kota Pekanbaru, Riau 28291",
+        "foto" : "images/PT Asuransi Central Asia (ACA).png",
+        "keterangan" : "PT"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.405033882553,
+          0.47024262809169998
+        ]
+      },
+      "properties" : {
+        "FID" : 28,
+        "no" : 29,
+        "nama" : "Ekspose Studio",
+        "x" : 0.47024300000000002,
+        "y" : 101.405034,
+        "alamat" : "Jl.Delima no.C 88",
+        "foto" : "images/Ekspose Studio.png",
+        "keterangan" : "Layanan atau Jasa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.402612984326,
+          0.59682301811081195
+        ]
+      },
+      "properties" : {
+        "FID" : 29,
+        "no" : 30,
+        "nama" : "PT GATRA CAPRI BERJAYA",
+        "x" : 0.59682299999999999,
+        "y" : 101.402613,
+        "alamat" : "Jl. Sri Dharma No 88 A",
+        "foto" : "images/PT GATRA CAPRI BERJAYA.png",
+        "keterangan" : "PT"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.441102616431,
+          0.44398236171502398
+        ]
+      },
+      "properties" : {
+        "FID" : 30,
+        "no" : 31,
+        "nama" : "Distro 88 Pekanbaru",
+        "x" : 0.44398199999999999,
+        "y" : 101.441103,
+        "alamat" : "Jl. Kartama No.27, Perhentian Marpoyan, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28284",
+        "foto" : "images/Distro 88 Pekanbaru.png",
+        "keterangan" : "UMKM"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.43454650674499,
+          0.53546308811243604
+        ]
+      },
+      "properties" : {
+        "FID" : 31,
+        "no" : 32,
+        "nama" : "Ring Shoes Care",
+        "x" : 0.53546300000000002,
+        "y" : 101.43454699999999,
+        "alamat" : "Jl. Riau No.14, Kp. Baru, Kec. Senapelan, Kota Pekanbaru, Riau 28155",
+        "foto" : "images/Ring Shoes Care.png",
+        "keterangan" : "Layanan atau Jasa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.437337180643,
+          0.53525236717088698
+        ]
+      },
+      "properties" : {
+        "FID" : 32,
+        "no" : 33,
+        "nama" : "i-CUT BARBERSHOP",
+        "x" : 0.53525199999999995,
+        "y" : 101.437337,
+        "alamat" : "Jl. Riau No.57, Kp. Bandar, Kec. Senapelan, Kota Pekanbaru, Riau 28155",
+        "foto" : "images/i-CUT BARBERSHOP.png",
+        "keterangan" : "Layanan atau Jasa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.436791744177,
+          0.48299894877463101
+        ]
+      },
+      "properties" : {
+        "FID" : 33,
+        "no" : 34,
+        "nama" : "Soto Padang Badaruak Mandeh",
+        "x" : 0.48299900000000001,
+        "y" : 101.436792,
+        "alamat" : "Jl. Paus Ujung No.8A, Tengkerang Tengah, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28282",
+        "foto" : "images/Soto Padang Badaruak Mandeh.png",
+        "keterangan" : "Toko"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.438440189253,
+          0.49303920843238502
+        ]
+      },
+      "properties" : {
+        "FID" : 34,
+        "no" : 35,
+        "nama" : "Cahaya Carwash",
+        "x" : 0.49303900000000001,
+        "y" : 101.43844,
+        "alamat" : "Jl. Paus No.69, Tengkerang Tengah, Kec. Marpoyan Damai, Kota Pekanbaru, Riau 28124",
+        "foto" : "images/Cahaya Carwash.png",
+        "keterangan" : "Layanan atau Jasa"
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          101.431479936812,
+          0.51792300007289704
+        ]
+      },
+      "properties" : {
+        "FID" : 35,
+        "no" : 36,
+        "nama" : "Cantik Busana",
+        "x" : 0.51792300000000002,
+        "y" : 101.43147999999999,
+        "alamat" : "Jl. Durian No.91A, Kp. Melayu, Kec. Sukajadi, Kota Pekanbaru, Riau 28122",
+        "foto" : "images/Cantik Busana.png",
+        "keterangan" : "Toko"
+      }
+    }
+  ]
+}
